@@ -1,0 +1,24 @@
+{
+  "name": "orchestration-node",
+  "version": "0.0.1",
+  "description": "Utility functions for launching and testing a Node application from Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchestration-nodejs/orchestration-node.git"
+  },
+  "keywords": [
+    "orchestration",
+    "microservices",
+    "gulp"
+  ],
+  "author": "Redpoint Games Pty Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orchestration-nodejs/orchestration-node/issues"
+  },
+  "homepage": "https://github.com/orchestration-nodejs/orchestration-node#readme"
+}
